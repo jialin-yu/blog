@@ -1,10 +1,16 @@
 ---
-layout: post
+# layout: collection
 title:  "Welcome to Jekyll!"
-date:   2020-04-12 14:07:40 +0100
+# date:   2023-09-29 12:25:42 +0100
+# permalink: /publications/
+# collection: publications
+# date_format: "%d-%m-%Y"
 categories: jekyll update
+header:
+  image: /assets/images/default_teaser.jpeg
+  teaser: /assets/images/default_teaser.jpeg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You’ll find this post in your `_publications` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 

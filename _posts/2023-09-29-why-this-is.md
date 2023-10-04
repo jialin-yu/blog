@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-04-12 20:09:11 +0100
-categories: jekyll update
+layout: single
+title:  "why this is !"
+date:   2023-09-29 12:25:42 +0100
+date_format: "%d-%m-%Y"
+categories: survey update
+tags: survey update
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
